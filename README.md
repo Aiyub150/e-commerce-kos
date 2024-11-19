@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# e-commerce-kos
+Sebuah aplikasi e-commerce yang berfokus pada sebuah kos sehingga memudahkan user dalam mencari kos yang ada di sekitar wilayah tertentu. Aplikasi ini menggunakan framework laravel 11
+>>>>>>> a1dd4cb454628d0819f937875c5b18f9ff4be0a6
